@@ -12,6 +12,7 @@ nbproject/private/private.properties
 
 #java specific
 *.class
+*.jar
 
 #general swap/backup files
 *.so
