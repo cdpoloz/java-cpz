@@ -92,5 +92,6 @@ public class Texto {
     public String toString() {
         return texto;
     }
+
 }
    
